@@ -1,7 +1,6 @@
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
-
 import { ItemDetailContainer } from './components/itemDetailContainer/ItemDetailContainer';
 import { CartProvider } from './context/CartContext/CartProvider';
 import { ItemListContainer } from './components/ItemListContainer/ItemListContainer';
