@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mouse Óptico Gamer G203",
+        "tipo": "Mouse",
+        "marca": "Logitech",
+        "precio": 8500.00,
+        "description": "Mouse gamer con sensor óptico de alta precisión y luces RGB.",
+        "imageUrl": "/images/g203.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Teclado Mecánico K845",
+        "tipo": "Teclado",
+        "marca": "Logitech",
+        "precio": 21000,
+        "description": "Teclado mecánico con switches Táctiles y retroiluminación.",
+        "imageUrl": "/images/k845.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor Gamer BenQ Zowie XL2546K",
+        "tipo": "Monitor",
+        "marca": "BenQ",
+        "precio": 950000,
+        "description": "Monitor de 24.5 pulgadas, 240Hz, especial para e-sports.",
+        "imageUrl": "/images/Monitor.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Auriculares HyperX Cloud II",
+        "tipo": "Auriculares",
+        "marca": "HyperX",
+        "precio": 32000,
+        "description": "Auriculares con sonido 7.1 virtual surround y micrófono desmontable.",
+        "imageUrl": "/images/Auriculares.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Mousepad Artisan",
+        "tipo": "Mousepad",
+        "marca": "Artisan",
+        "precio": 18500,
+        "description": "Mousepad de tela de alta calidad, control y velocidad.",
+        "imageUrl": "/images/Mousepad.jpg"
+    }
+]
